@@ -11,6 +11,11 @@ EOTA Tools は 3D ビューポート[3D Viewport] のタブとして現れます
 
 ![Image](https://github.com/user-attachments/assets/e7b61ac5-db5e-41c5-92f3-b21933e263cc)
 
+
+### デモ
+[![テスト](https://github.com/user-attachments/assets/e7b61ac5-db5e-41c5-92f3-b21933e263cc)](https://drive.google.com/file/d/1TgdUabhFPypTOfBRu6-xaLnJrBp3xbO5/view?usp=sharing)
+
+
 ## 各要素解説
 
 ### 操作
