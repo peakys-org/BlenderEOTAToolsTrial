@@ -10,8 +10,8 @@
 ## フィードバック
 [**是非ご意見をお聞かせください！(Google Form)**](https://docs.google.com/forms/d/e/1FAIpQLSefeNHd3IgLEh-5zvnnR53sBz5-dhEXeFPGSsqIZxN-uO7UzQ/viewform?usp=sf_link)
 
-## デモ
-[![デモ動画サムネイル](https://github.com/user-attachments/assets/31deea4b-a0c1-4973-9de2-45ad79474824)](https://drive.google.com/file/d/1TgdUabhFPypTOfBRu6-xaLnJrBp3xbO5/view?usp=sharing)
+## デモ動画
+[![デモ動画サムネイル](https://github.com/user-attachments/assets/e2a9d88d-1f6e-45eb-95d9-da0feca833e4)](https://drive.google.com/file/d/1TgdUabhFPypTOfBRu6-xaLnJrBp3xbO5/view?usp=sharing)
 
 
 ## 各要素解説
