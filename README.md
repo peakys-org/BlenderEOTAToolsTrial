@@ -4,15 +4,13 @@
 2. Blender を起動して、トップバーの編集[Edit] >  プリファレンス...[Preferences…] から、Preference ウィンドウを開き、アドオン[Add-ons] に進みます。
 3. ウィンドウの右上の下矢印のメニューから、ディスクからインストール[Install from Disk...] に進み、ダウンロードした ZIP ファイルを選択します。
 4. インストール後、一度 Blender を終了します。
+5. 3D ビューポート[3D Viewport] のタブとして「EOTA_Tools」が利用できます。
 ![Image](https://github.com/user-attachments/assets/b3ef59cf-718b-4789-8b2a-24d2b850a32b)
 
-## 全体像
-EOTA Tools は 3D ビューポート[3D Viewport] のタブとして現れます。
+## フィードバック
+[**是非ご意見をお聞かせください！(Google Form)**](https://docs.google.com/forms/d/e/1FAIpQLSefeNHd3IgLEh-5zvnnR53sBz5-dhEXeFPGSsqIZxN-uO7UzQ/viewform?usp=sf_link)
 
-![Image](https://github.com/user-attachments/assets/e7b61ac5-db5e-41c5-92f3-b21933e263cc)
-
-
-### デモ
+## デモ
 [![テスト](https://github.com/user-attachments/assets/e7b61ac5-db5e-41c5-92f3-b21933e263cc)](https://drive.google.com/file/d/1TgdUabhFPypTOfBRu6-xaLnJrBp3xbO5/view?usp=sharing)
 
 
@@ -26,8 +24,8 @@ EOTA Tools は 3D ビューポート[3D Viewport] のタブとして現れます
 ### カメラ一覧
 ![Image](https://github.com/user-attachments/assets/e3427057-935d-4450-a427-f5b6e96181d7)
 
-- 「カメラからの視野」は、3D ビューポート[3D Viewport] の右側にあるカメラビューを切り替えます[Toggle the camera view] ボタンと等価です。
-- リストは、シーンオブジェクトのカメラの一覧(`[obj for obj in context.scene.objects if obj.type=='CAMERA']`)です。このリストからカメラを選択するとそのカメラは、シーンカメラ(`context.scene.camera`)になり、他のカメラは隠される。
+- 「カメラからの視野」は、3D ビューポート[3D Viewport] の右側にある、カメラビューを切り替えます[Toggle the camera view] ボタンと等価です。
+- リストは、シーンオブジェクトのカメラの一覧です。このリストからカメラを選択するとそのカメラは、シーンカメラになり、他のカメラは隠されます。
   - マウスカーソルがパネル上にある状態で、次のショートカットが使えます。
     - Shift + Alt + w  または 上　 →　リストの上に移動
     - Shift + Alt + s  または 下　 →　リストの下に移動
@@ -65,3 +63,8 @@ EOTA Tools は 3D ビューポート[3D Viewport] のタブとして現れます
 ![Image](https://github.com/user-attachments/assets/951bdc06-3154-4640-b573-39037b00d308)
 
 - このページを開きます。
+
+## 全体像
+EOTA Tools は 3D ビューポート[3D Viewport] のタブとして現れます。
+
+![Image](https://github.com/user-attachments/assets/e7b61ac5-db5e-41c5-92f3-b21933e263cc)
