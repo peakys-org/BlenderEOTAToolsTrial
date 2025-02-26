@@ -11,7 +11,7 @@
 [**是非ご意見をお聞かせください！(Google Form)**](https://docs.google.com/forms/d/e/1FAIpQLSefeNHd3IgLEh-5zvnnR53sBz5-dhEXeFPGSsqIZxN-uO7UzQ/viewform?usp=sf_link)
 
 ## デモ動画
-[![デモ動画サムネイル](https://github.com/user-attachments/assets/e2a9d88d-1f6e-45eb-95d9-da0feca833e4)](https://drive.google.com/file/d/1TgdUabhFPypTOfBRu6-xaLnJrBp3xbO5/view?usp=sharing)
+[![デモ動画サムネイル](https://github.com/user-attachments/assets/e2a9d88d-1f6e-45eb-95d9-da0feca833e4)](https://drive.google.com/file/d/1KsITm78NIKZx9f725tZ70sgjK0ENtBSi/view?usp=sharing)
 
 
 ## 各要素解説
