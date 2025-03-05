@@ -1,6 +1,6 @@
 # Blender EOTA Tools
 ## インストール
-1. https://github.com/peakys-org/BlenderEOTATools-Distribution/releases/ から、最新のリリースの ZIP ファイルをダウンロードします。
+1. https://github.com/peakys-org/BlenderEOTAToolsTrial/releases/ から、最新のリリースの ZIP ファイルをダウンロードします。
 2. Blender を起動して、トップバーの編集[Edit] >  プリファレンス...[Preferences…] から、Preference ウィンドウを開き、アドオン[Add-ons] に進みます。
 3. ウィンドウの右上の下矢印のメニューから、ディスクからインストール[Install from Disk...] に進み、ダウンロードした ZIP ファイルを選択します。
 4. インストール後、一度 Blender を終了します。
