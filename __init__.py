@@ -3,7 +3,7 @@ bl_info = {
   "description": "Create BG Layout tool ",
   "author": "EOTA, Peakys 加藤宏怜 (@hirosato654),",
   "version": (1, 0, 2),
-  "blender": (4, 3, 2),
+  "blender": (4, 0, 0),
   "location": "VIEW3D > Panel",
   "warning": "",
   "doc_url": "https://github.com/peakys-org/BlenderEOTATools-Distribution/blob/main/README.md",
