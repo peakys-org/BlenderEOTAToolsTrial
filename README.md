@@ -5,7 +5,7 @@
 3. ウィンドウの右上の下矢印のメニューから、ディスクからインストール[Install from Disk...] に進み、ダウンロードした ZIP ファイルを選択します。
 4. 3D ビューポート[3D Viewport] のタブとして「EOTA_Tools」が利用できます。
 5. EOTA Tools は 3D ビューポート[3D Viewport] のタブとして現れます。
-![Image]("https://github.com/user-attachments/assets/4d940c33-7917-4387-9dd3-28ace00a6eb8)
+6. ![Image](https://github.com/user-attachments/assets/2b04d1c5-4a05-4d9a-a970-876cac39b20c)
 
 ## フィードバック
 [**ご意見をお聞かせください！(Google Form)**](https://docs.google.com/forms/d/e/1FAIpQLSefeNHd3IgLEh-5zvnnR53sBz5-dhEXeFPGSsqIZxN-uO7UzQ/viewform?usp=sf_link)
