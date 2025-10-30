@@ -1,19 +1,17 @@
-# TEST
-# Blender EOTA Tools
+# Blender EOTA Tools Beta 版
 ## インストール
 1. https://github.com/peakys-org/BlenderEOTAToolsTrial/releases/ から、最新のリリースの ZIP ファイルをダウンロードします。
 2. Blender を起動して、トップバーの編集[Edit] >  プリファレンス...[Preferences…] から、Preference ウィンドウを開き、アドオン[Add-ons] に進みます。
 3. ウィンドウの右上の下矢印のメニューから、ディスクからインストール[Install from Disk...] に進み、ダウンロードした ZIP ファイルを選択します。
-4. インストール後、一度 Blender を終了します。
-5. 3D ビューポート[3D Viewport] のタブとして「EOTA_Tools」が利用できます。
-![Image](https://github.com/user-attachments/assets/d6666cd7-2f9a-447a-abf8-3e73b94a96a9)
+4. 3D ビューポート[3D Viewport] のタブとして「EOTA_Tools」が利用できます。
+5. EOTA Tools は 3D ビューポート[3D Viewport] のタブとして現れます。
+![Image]("https://github.com/user-attachments/assets/4d940c33-7917-4387-9dd3-28ace00a6eb8)
 
 ## フィードバック
-[**是非ご意見をお聞かせください！(Google Form)**](https://docs.google.com/forms/d/e/1FAIpQLSefeNHd3IgLEh-5zvnnR53sBz5-dhEXeFPGSsqIZxN-uO7UzQ/viewform?usp=sf_link)
+[**ご意見をお聞かせください！(Google Form)**](https://docs.google.com/forms/d/e/1FAIpQLSefeNHd3IgLEh-5zvnnR53sBz5-dhEXeFPGSsqIZxN-uO7UzQ/viewform?usp=sf_link)
 
-## デモ動画
-[![デモ動画サムネイル](https://github.com/user-attachments/assets/a18bfd9c-253a-4f42-be83-f97cb145a27e)](https://drive.google.com/file/d/1KsITm78NIKZx9f725tZ70sgjK0ENtBSi/view?usp=sharing)
-
+## 対応済み Blender バージョン
+- Blender 4.0.0 から Blender 4.3.2 まで
 
 ## 各要素解説
 
@@ -53,19 +51,12 @@
 ### 出力
 ![Image](https://github.com/user-attachments/assets/b1388f1d-b099-463e-890f-e492a4de2b5c)
 
-- 「ファイル名」「カメラ名」は、出力先のファイル名にこれらを含ませます。
+- 「ファイル名」 「カメラ名」は、出力先のファイル名にこれらを含ませます。
 
-### 印字
-![Image](https://github.com/user-attachments/assets/8feebfe2-6d3b-461d-84be-fa1f430a40c2)
-
-- 出力画像に情報を印字します。
+### ご意見・ご要望
+![image](https://github.com/user-attachments/assets/a5e1d597-656c-4797-9cd0-43f7fcc6dc27)
 
 ### マニュアル
 ![Image](https://github.com/user-attachments/assets/b30a862e-b4f5-40bd-9a99-9d1aced6468b)
 
 - このページを開きます。
-
-## 全体像
-EOTA Tools は 3D ビューポート[3D Viewport] のタブとして現れます。
-
-![Image](https://github.com/user-attachments/assets/ec62823d-5f74-4c38-8723-73c5e55442c2)
